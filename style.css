@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  background: #000;
+  overflow: hidden; 
+}
+
+.Info {
+  position: fixed;
+  margin: 20px;
+  padding: 25px ;
+  background: #ffffff;
+  border-radius: 10px;
+  height: 100px;
+  width: 200px;
+  align-content: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:x-large;
+}
+
+.Info button{
+    background-color: #e29cf8;
+    border-radius: 10px;
+    height: 40px;
+    width: 110px;
+    font-size:x-large;
+}
